@@ -1,0 +1,6 @@
+[general]
+base_currency = USD
+display = both
+
+[ben-the-dog]
+icon = BEN
