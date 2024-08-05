@@ -1,0 +1,73 @@
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonaacf» активен
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-11 21:52:40.774 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-11 21:52:40.792 [info] Default formatter is set to null for workspace /home/sai/Downloads/skin-bot-main
+2024-06-11 21:52:40.815 [info] Путь к интерпретатору Python: /bin/python
+2024-06-11 21:52:40.945 [info] > pyenv which python
+2024-06-11 21:52:40.945 [info] cwd: .
+2024-06-11 21:52:41.781 [info] Запуск языкового сервера Pylance.
+2024-06-11 21:52:41.966 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-06-11 21:54:51.228 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 21:54:58.627 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 21:55:00.817 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 21:55:05.228 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 21:55:42.092 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/functions.py
+2024-06-11 21:55:44.379 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/functions.py
+2024-06-11 21:55:51.680 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:07:06.899 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:07:20.613 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:07:33.811 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:02.555 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:16.039 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:28.275 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:40.884 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:46.015 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:54.312 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:08:56.438 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:10:32.346 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:11:11.904 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:11:43.639 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:12:10.823 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:12:16.623 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:12:54.487 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:13:01.651 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:13:03.760 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:13:14.822 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:13:29.634 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:13:57.741 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:14:06.296 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:14:13.529 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:14:15.282 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:14:16.040 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:32:05.261 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/normalizeSelection.py
+2024-06-11 22:32:05.396 [info] Send text to terminal: /bin/python
+2024-06-11 22:32:05.670 [info] Shell integration status changed, can confirm it's working.
+2024-06-11 22:32:08.858 [info] Selected file contains invalid Python or Deprecated Python 2 code
+2024-06-11 22:32:20.059 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:33:32.305 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:35:12.695 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:35:32.713 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:35:47.795 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:36:17.503 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:38:39.739 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:39:14.403 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:40:01.602 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:40:04.294 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:53:28.031 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:53:40.156 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:53:50.499 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:54:24.665 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:55:21.768 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:56:09.553 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:57:04.223 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 22:58:41.576 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 22:58:59.630 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 23:00:14.405 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 23:00:52.526 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 23:00:58.196 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/bot_functions.py
+2024-06-11 23:02:54.499 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 23:03:14.350 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py
+2024-06-11 23:03:19.310 [info] Discover tests for workspace name: skin-bot-main - uri: /home/sai/Downloads/skin-bot-main/main.py

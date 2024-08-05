@@ -1,0 +1,8 @@
+[Plugins]
+krunner_dictionaryEnabled=false
+krunner_placesrunnerEnabled=false
+krunner_servicesEnabled=false
+krunner_spellcheckEnabled=false
+
+[Plugins][Favorites]
+plugins=krunner_services

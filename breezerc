@@ -1,0 +1,8 @@
+[Common]
+OutlineIntensity=OutlineMaximum
+ShadowSize=ShadowVeryLarge
+
+[Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
+SidePanelDrawFrame=true

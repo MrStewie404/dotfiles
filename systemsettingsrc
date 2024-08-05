@@ -1,0 +1,9 @@
+[KFileDialog Settings]
+iconViewIconSize=256
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true

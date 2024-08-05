@@ -1,0 +1,25 @@
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonaacf» активен
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-11 22:27:28.528 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-11 22:27:28.528 [info] Default formatter is set to null for workspace /home/sai/django-project/store/store
+2024-06-11 22:27:28.528 [info] Starting Environment refresh
+2024-06-11 22:27:28.528 [info] > hatch env show --json
+2024-06-11 22:27:28.528 [info] cwd: .
+2024-06-11 22:27:28.528 [info] Путь к интерпретатору Python: /bin/python
+2024-06-11 22:27:28.528 [info] Starting Environment refresh
+2024-06-11 22:27:28.536 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/interpreterInfo.py
+2024-06-11 22:27:28.536 [info] Environments refresh paths discovered: 22 milliseconds
+2024-06-11 22:27:28.536 [info] Environments refresh paths discovered: 8 milliseconds
+2024-06-11 22:27:28.579 [info] Environments refresh finished (event): 65 milliseconds
+2024-06-11 22:27:28.579 [info] Environments refresh finished (event): 51 milliseconds
+2024-06-11 22:27:28.579 [info] Environment refresh took 65 milliseconds
+2024-06-11 22:27:28.580 [info] Environment refresh took 52 milliseconds
+2024-06-11 22:27:28.582 [info] > pyenv which python
+2024-06-11 22:27:28.583 [info] cwd: .
+2024-06-11 22:27:29.629 [info] Запуск языкового сервера Pylance.
+2024-06-11 22:27:29.653 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-06-11 22:37:41.758 [info] Discover tests for workspace name: store - uri: /home/sai/django-project/store/store/store/settings.py
+2024-06-11 22:40:26.631 [info] Discover tests for workspace name: store - uri: /home/sai/django-project/store/store/store/settings.py

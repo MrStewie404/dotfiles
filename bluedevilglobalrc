@@ -1,0 +1,8 @@
+[Adapters]
+A4:CF:99:95:04:3C_powered=true
+
+[Devices]
+connectedDevices=
+
+[Global]
+bluetoothBlocked=true

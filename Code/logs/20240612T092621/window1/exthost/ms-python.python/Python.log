@@ -1,0 +1,70 @@
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonaacf» активен
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-12 09:26:22.445 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-12 09:26:22.445 [info] Default formatter is set to null for workspace /home/sai/django-project/NewsPortal
+2024-06-12 09:26:22.445 [info] Путь к интерпретатору Python: /bin/python
+2024-06-12 09:26:22.449 [info] > pyenv which python
+2024-06-12 09:26:22.449 [info] cwd: .
+2024-06-12 09:26:23.445 [info] Запуск языкового сервера Pylance.
+2024-06-12 09:26:23.506 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-06-12 09:31:59.350 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:35:01.187 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:36:09.560 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:36:12.102 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:36:34.494 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:36:41.706 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:37:07.720 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:37:12.093 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:41:01.293 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:41:16.022 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:41:36.996 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:41:42.237 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:44:27.340 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:44:39.866 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:44:44.038 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:44:48.787 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:44:52.466 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:45:55.384 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:49:01.049 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:49:56.705 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:50:04.261 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:50:11.843 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:52:22.930 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:53:17.769 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:54:08.884 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:54:52.130 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:55:04.881 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:56:11.622 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:56:34.883 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:56:39.295 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:56:48.150 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:57:08.798 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:57:16.342 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:57:27.651 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:57:42.590 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 09:57:53.020 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:24:53.765 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:25:02.757 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:25:58.916 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:26:04.291 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:26:27.865 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:26:34.938 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:27:26.445 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:27:28.601 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:27:42.935 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:27:48.178 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:27:51.352 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:28:14.124 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:28:49.844 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:29:05.241 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 15:29:15.774 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/settings.py
+2024-06-12 16:07:52.250 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:09:07.664 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:09:37.476 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:09:39.431 [info] Send text to terminal: /bin/python /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:10:07.813 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:10:57.139 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/project/logging.py
+2024-06-12 16:11:06.605 [info] Shell integration status changed, can confirm it's working.

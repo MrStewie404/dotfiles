@@ -1,0 +1,92 @@
+2024-07-24 16:47:08.736 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ru /home/sai/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.89.2024050109
+2024-07-24 16:47:08.777 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.89.2024050109.-534d0873.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.89.2024050109.-534d0873.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:08.936 [info] Deleted uninstalled extension from disk ms-python.python /home/sai/.vscode/extensions/ms-python.python-2024.8.0
+2024-07-24 16:47:13.926 [info] Getting Manifest... dracula-theme.theme-dracula
+2024-07-24 16:47:13.927 [info] Getting Manifest... ms-python.debugpy
+2024-07-24 16:47:13.929 [info] Getting Manifest... ms-python.python
+2024-07-24 16:47:13.930 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-24 16:47:15.828 [info] Installing extension: dracula-theme.theme-dracula
+2024-07-24 16:47:15.900 [info] Installing extension: ms-python.python
+2024-07-24 16:47:15.916 [info] Installing extension: ms-python.debugpy
+2024-07-24 16:47:15.917 [info] Installing extension: ms-python.vscode-pylance
+2024-07-24 16:47:17.806 [info] Getting Manifest... ms-python.python
+2024-07-24 16:47:17.897 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-07-24 16:47:18.078 [info] Getting Manifest... ms-python.python
+2024-07-24 16:47:18.164 [info] Waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-07-24 16:47:24.858 [info] Extension signature verification result for dracula-theme.theme-dracula: Success. Duration: 1178ms.
+2024-07-24 16:47:24.890 [info] Extracted extension to file:///home/sai/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2024-07-24 16:47:24.891 [info] Renamed to /home/sai/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2024-07-24 16:47:24.892 [info] Extracting extension completed. dracula-theme.theme-dracula
+2024-07-24 16:47:24.897 [info] Extension installed successfully: dracula-theme.theme-dracula
+2024-07-24 16:47:24.900 [info] Marked extension as uninstalled dracula-theme.theme-dracula-2.24.3
+2024-07-24 16:47:24.968 [info] Extension signature verification result for ms-python.debugpy: Success. Duration: 424ms.
+2024-07-24 16:47:24.970 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:25.083 [info] Extension signature verification result for ms-python.python: Success. Duration: 2034ms.
+2024-07-24 16:47:25.262 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Duration: 386ms.
+2024-07-24 16:47:25.332 [info] Extracted extension to file:///home/sai/.vscode/extensions/ms-python.debugpy-2024.8.0-linux-arm64: ms-python.debugpy
+2024-07-24 16:47:25.337 [info] Renamed to /home/sai/.vscode/extensions/ms-python.debugpy-2024.8.0-linux-arm64
+2024-07-24 16:47:25.339 [info] Extracting extension completed. ms-python.debugpy
+2024-07-24 16:47:25.354 [info] Marked extension as uninstalled ms-python.debugpy-2024.6.0-linux-arm64
+2024-07-24 16:47:25.429 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:27.933 [info] Extracted extension to file:///home/sai/.vscode/extensions/ms-python.python-2024.10.0-linux-arm64: ms-python.python
+2024-07-24 16:47:27.936 [info] Renamed to /home/sai/.vscode/extensions/ms-python.python-2024.10.0-linux-arm64
+2024-07-24 16:47:27.941 [info] Extracting extension completed. ms-python.python
+2024-07-24 16:47:27.950 [info] Extension installed successfully: ms-python.python
+2024-07-24 16:47:27.950 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-07-24 16:47:27.951 [info] Finished waiting for already requested installing extension ms-python.python ms-python.debugpy
+2024-07-24 16:47:27.952 [info] Extension installed successfully: ms-python.debugpy
+2024-07-24 16:47:27.961 [info] Marked extension as uninstalled ms-python.python-2024.8.1
+2024-07-24 16:47:28.026 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:31.108 [info] Extracted extension to file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.7.1: ms-python.vscode-pylance
+2024-07-24 16:47:31.110 [info] Renamed to /home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.7.1
+2024-07-24 16:47:31.126 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-07-24 16:47:31.146 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-07-24 16:47:31.155 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.6.1
+2024-07-24 16:47:31.217 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:40.328 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:40.557 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:45.041 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ru: Success. Duration: 437ms.
+2024-07-24 16:47:45.163 [info] Extracted extension to file:///home/sai/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.91.2024071009: ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:45.165 [info] Renamed to /home/sai/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.91.2024071009
+2024-07-24 16:47:45.166 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:45.173 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:45.244 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ru-1.90.2024061209
+2024-07-24 16:47:45.247 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sai/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-07-24 16:47:45.276 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2024-07-24 16:47:48.452 [error] [uncaught exception in sharedProcess]: Произошла системная ошибка (ENOENT: no such file or directory, scandir '/home/sai/.config/Code/clp/6161035fc9c584bdacea90e27f514acf.ru'): Error: ENOENT: no such file or directory, scandir '/home/sai/.config/Code/clp/6161035fc9c584bdacea90e27f514acf.ru'

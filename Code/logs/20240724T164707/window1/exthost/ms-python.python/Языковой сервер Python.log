@@ -1,0 +1,35 @@
+2024-07-24 16:47:09.471 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-24 16:47:09.747 [info] [Info  - 4:47:09 PM] (6442) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-24 16:47:09.747 [info] [Info  - 4:47:09 PM] (6442) Server root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-24 16:47:09.748 [info] [Info  - 4:47:09 PM] (6442) Starting service instance "NewsPortal"
+2024-07-24 16:47:09.759 [info] Auto-Indent enabled
+2024-07-24 16:47:09.777 [info] Auto-Indent enabled
+2024-07-24 16:47:09.778 [info] [Info  - 4:47:09 PM] (6442) Setting pythonPath for service "NewsPortal": "/bin/python"
+2024-07-24 16:47:09.778 [info] [Info  - 4:47:09 PM] (6442) Setting environmentName for service "NewsPortal": "3.12.3 (глобальная)"
+2024-07-24 16:47:09.823 [info] [Info  - 4:47:09 PM] (6442) Assuming Python version 3.12.3.final.0
+2024-07-24 16:47:09.956 [info] [Info  - 4:47:09 PM] (6442) Found 34 source files
+2024-07-24 16:47:09.958 [info] Auto-Indent enabled
+2024-07-24 16:47:09.968 [info] Auto-Indent enabled
+2024-07-24 16:47:09.969 [info] [Info  - 4:47:09 PM] (6442) Setting pythonPath for service "NewsPortal": "/bin/python"
+2024-07-24 16:47:09.969 [info] [Info  - 4:47:09 PM] (6442) Setting environmentName for service "NewsPortal": "3.12.3 (глобальная)"
+2024-07-24 16:47:09.981 [info] [Info  - 4:47:09 PM] (6442) Assuming Python version 3.12.3.final.0
+2024-07-24 16:47:10.069 [info] [Info  - 4:47:10 PM] (6442) Found 34 source files
+2024-07-24 16:47:10.072 [info] Auto-Indent enabled
+2024-07-24 16:47:10.072 [info] [Info  - 4:47:10 PM] (6442) Background analysis(1) root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-24 16:47:10.072 [info] [Info  - 4:47:10 PM] (6442) Background analysis(1) started
+2024-07-24 16:47:10.219 [info] [Info  - 4:47:10 PM] (6442) Indexer background runner(2) root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-24 16:47:10.221 [info] [Info  - 4:47:10 PM] (6442) Indexing(2) started
+2024-07-24 16:47:10.533 [info] [Info  - 4:47:10 PM] (6442) scanned(2) 159 files over 1 exec env
+2024-07-24 16:47:10.669 [info] [Info  - 4:47:10 PM] (6442) indexed(2) 89 files over 1 exec env
+2024-07-24 16:47:10.691 [info] [Info  - 4:47:10 PM] (6442) Indexing finished(2).
+2024-07-24 16:47:10.909 [info] Auto-Indent enabled
+2024-07-24 16:47:10.910 [info] [Info  - 4:47:10 PM] (6442) Setting pythonPath for service "NewsPortal": "/bin/python"
+2024-07-24 16:47:10.910 [info] [Info  - 4:47:10 PM] (6442) Setting environmentName for service "NewsPortal": "3.12.3 (глобальная)"
+2024-07-24 16:47:10.929 [info] [Info  - 4:47:10 PM] (6442) Assuming Python version 3.12.3.final.0
+2024-07-24 16:47:11.061 [info] [Info  - 4:47:11 PM] (6442) Found 34 source files
+2024-07-24 16:47:11.079 [info] Auto-Indent enabled
+2024-07-24 16:47:11.310 [info] [Info  - 4:47:11 PM] (6442) Indexer background runner(3) root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-24 16:47:11.310 [info] [Info  - 4:47:11 PM] (6442) Indexing(3) started
+2024-07-24 16:47:11.470 [info] [Info  - 4:47:11 PM] (6442) scanned(3) 159 files over 1 exec env
+2024-07-24 16:47:11.565 [info] [Info  - 4:47:11 PM] (6442) indexed(3) 89 files over 1 exec env
+2024-07-24 16:47:11.587 [info] [Info  - 4:47:11 PM] (6442) Indexing finished(3).

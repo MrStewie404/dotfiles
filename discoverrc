@@ -1,0 +1,9 @@
+[DiscoverUI]
+installedPageSorting=276
+
+[FlatpakSources]
+Sources=fedora-testing,fedora,flathub
+
+[Window]
+geometry=1483,631,457,513
+visibility=2

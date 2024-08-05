@@ -1,0 +1,65 @@
+<!--  наследуемся от шаблона default.html, который мы создавали для flatpages -->
+{% extends 'flatpages/default.html' %} 
+
+{% load custom_filters %}
+
+{% block title %}
+News
+{% endblock title %}
+ 
+{% block content %}
+
+    
+
+   {% if news %}
+        <table>
+            {% for post in news %}
+                <tr>
+                    <td>
+                        <hr>
+                        <h3>
+                            <a href="{{post.id}}">{{ post.title|preview_title }}</a> 
+                        </h3>
+                        <h6>{{ post.datetime|date:'M d Y' }}</h6>
+                        <!-- {% for category in post.category.all %}
+                            <a href="{% url 'category_list' category.id %}">{{ category }}</a>
+                        {% endfor %} -->
+                        <td>{{ post.text|preview_text }}</td> 
+                    </td>
+                </tr>
+            {% endfor %}
+        </table>
+   {% else %}
+       <!-- Если статей нет, просим написать ;) -->
+       <h2>Статей нет!</h2>
+        <h5>Ну же! Напишите свою первую статью!</h5>
+   {% endif %}
+
+
+
+   
+   {# Добавляем пагинацию на страницу #}
+
+   {# Информация о предыдущих страницах #}
+   <h5>
+        {% if page_obj.has_previous %}
+            <a href="?page=1">1</a>
+            {% if page_obj.previous_page_number != 1 %}
+                ...
+                <a href="?page={{ page_obj.previous_page_number }}">{{ page_obj.previous_page_number }}</a>
+            {% endif %}
+        {% endif %}
+
+        {# Информация о текущей странице #}
+        {{ page_obj.number }}
+
+        {# Информация о следующих страницах #}
+        {% if page_obj.has_next %}
+            <a href="?page={{ page_obj.next_page_number }}">{{ page_obj.next_page_number }}</a>
+            {% if paginator.num_pages != page_obj.next_page_number %}
+                ...
+                <a href="?page={{ page_obj.paginator.num_pages }}">{{ page_obj.paginator.num_pages }}</a>
+            {% endif %}
+        {% endif %}
+   </h5>
+{% endblock content %}

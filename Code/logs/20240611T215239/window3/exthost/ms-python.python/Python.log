@@ -1,0 +1,28 @@
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonaacf» активен
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-12 00:47:00.031 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-12 00:47:00.031 [info] Default formatter is set to null for workspace /home/sai/django-project/NewsPortal
+2024-06-12 00:47:00.031 [info] Starting Environment refresh
+2024-06-12 00:47:00.031 [info] > hatch env show --json
+2024-06-12 00:47:00.031 [info] cwd: .
+2024-06-12 00:47:00.031 [info] Путь к интерпретатору Python: /bin/python
+2024-06-12 00:47:00.031 [info] Starting Environment refresh
+2024-06-12 00:47:00.040 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/interpreterInfo.py
+2024-06-12 00:47:00.042 [info] Environments refresh paths discovered: 27 milliseconds
+2024-06-12 00:47:00.042 [info] Environments refresh paths discovered: 12 milliseconds
+2024-06-12 00:47:00.116 [info] Environments refresh finished (event): 101 milliseconds
+2024-06-12 00:47:00.116 [info] Environments refresh finished (event): 86 milliseconds
+2024-06-12 00:47:00.117 [info] Environment refresh took 102 milliseconds
+2024-06-12 00:47:00.118 [info] Environment refresh took 88 milliseconds
+2024-06-12 00:47:00.122 [info] > pyenv which python
+2024-06-12 00:47:00.122 [info] cwd: .
+2024-06-12 00:47:01.211 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-06-12 00:47:01.272 [info] Запуск языкового сервера Pylance.
+2024-06-12 00:48:41.780 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/news/models.py
+2024-06-12 00:58:35.287 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/news/views.py
+2024-06-12 00:58:40.053 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/news/views.py
+2024-06-12 01:04:21.259 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/news/urls.py
+2024-06-12 01:04:24.548 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/django-project/NewsPortal/news/urls.py

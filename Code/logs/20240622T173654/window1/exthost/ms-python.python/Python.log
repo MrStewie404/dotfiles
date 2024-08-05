@@ -1,0 +1,12 @@
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonaacf» активен
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-22 17:36:55.497 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-22 17:36:55.520 [info] Default formatter is set to null for workspace /home/sai/django-project/NewsPortal
+2024-06-22 17:36:55.533 [info] Путь к интерпретатору Python: /bin/python
+2024-06-22 17:36:55.663 [info] > pyenv which python
+2024-06-22 17:36:55.663 [info] cwd: .
+2024-06-22 17:36:56.514 [info] Запуск языкового сервера Pylance.
+2024-06-22 17:36:56.681 [warning] Shell integration may not be active, environment activated may be overridden by the shell.

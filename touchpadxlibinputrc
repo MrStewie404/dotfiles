@@ -1,0 +1,4 @@
+[Apple MTP multi-touch]
+disableWhileTyping=false
+middleEmulation=false
+tapToClick=true

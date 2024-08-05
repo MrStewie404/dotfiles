@@ -1,0 +1,18 @@
+2024-06-11 22:27:29.333 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.0)
+2024-06-11 22:27:29.625 [info] [Info  - 10:27:29 PM] (376831) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-11 22:27:29.625 [info] [Info  - 10:27:29 PM] (376831) Server root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-11 22:27:29.625 [info] [Info  - 10:27:29 PM] (376831) Starting service instance "store"
+2024-06-11 22:27:29.630 [info] Auto-Indent enabled
+2024-06-11 22:27:29.636 [info] Auto-Indent enabled
+2024-06-11 22:27:29.637 [info] [Info  - 10:27:29 PM] (376831) Setting pythonPath for service "store": "/bin/python"
+2024-06-11 22:27:29.637 [info] [Info  - 10:27:29 PM] (376831) Setting environmentName for service "store": "3.12.3 (глобальная)"
+2024-06-11 22:27:29.674 [info] [Info  - 10:27:29 PM] (376831) Assuming Python version 3.12.3.final.0
+2024-06-11 22:27:29.774 [info] [Info  - 10:27:29 PM] (376831) Found 6 source files
+2024-06-11 22:27:29.775 [info] Auto-Indent enabled
+2024-06-11 22:27:29.856 [info] [Info  - 10:27:29 PM] (376831) Background analysis(1) root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-11 22:27:29.857 [info] [Info  - 10:27:29 PM] (376831) Background analysis(1) started
+2024-06-11 22:27:46.670 [info] [Info  - 10:27:46 PM] (376831) Indexer background runner(2) root directory: file:///home/sai/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-11 22:27:46.670 [info] [Info  - 10:27:46 PM] (376831) Indexing(2) started
+2024-06-11 22:27:46.854 [info] [Info  - 10:27:46 PM] (376831) scanned(2) 159 files over 1 exec env
+2024-06-11 22:27:47.484 [info] [Info  - 10:27:47 PM] (376831) indexed(2) 89 files over 1 exec env
+2024-06-11 22:27:47.533 [info] [Info  - 10:27:47 PM] (376831) Indexing finished(2).

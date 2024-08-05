@@ -1,0 +1,249 @@
+16:44:28.419: Platform: Wayland
+16:44:28.420: Physical Cores: 8, Logical Cores: 8
+16:44:28.420: Physical Memory: 7499MB Total, 633MB Free
+16:44:28.420: Kernel Version: Linux 6.8.10-400.asahi.fc40.aarch64+16k
+16:44:28.420: Distribution: "Fedora Linux Asahi Remix" 40
+16:44:28.420: Desktop Environment: GNOME (GNOME)
+16:44:28.420: Session Type: wayland
+16:44:28.422: Qt Version: 6.7.1 (runtime), 6.7.0 (compiled)
+16:44:28.422: Portable mode: false
+16:44:28.463: OBS 30.1.1 (linux)
+16:44:28.463: ---------------------------------
+16:44:28.463: ---------------------------------
+16:44:28.463: audio settings reset:
+16:44:28.463: 	samples per sec: 48000
+16:44:28.463: 	speakers:        2
+16:44:28.463: 	max buffering:   960 milliseconds
+16:44:28.463: 	buffering type:  dynamically increasing
+16:44:28.472: ---------------------------------
+16:44:28.472: Initializing OpenGL...
+16:44:28.472: Using EGL/Wayland
+16:44:28.512: Initialized EGL 1.5
+16:44:28.524: Loading up OpenGL on adapter Mesa Apple M2 (G14G B0)
+16:44:28.524: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.1.0-asahi20240228, shading language 4.60
+16:44:28.547: ---------------------------------
+16:44:28.547: video settings reset:
+16:44:28.547: 	base resolution:   2560x1600
+16:44:28.547: 	output resolution: 1536x960
+16:44:28.547: 	downscale filter:  Bicubic
+16:44:28.547: 	fps:               30/1
+16:44:28.547: 	format:            NV12
+16:44:28.547: 	YUV mode:          Rec. 709/Partial
+16:44:28.547: NV12 texture support enabled
+16:44:28.547: P010 texture support not available
+16:44:28.550: Audio monitoring device:
+16:44:28.550: 	name: Default
+16:44:28.550: 	id: default
+16:44:28.550: ---------------------------------
+16:44:28.565: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:44:28.581: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:44:28.591: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:44:28.591: Failed to initialize module 'decklink.so'
+16:44:28.899: [pipewire] Available captures:
+16:44:28.899: [pipewire]     - Desktop capture
+16:44:28.899: [pipewire]     - Window capture
+16:44:28.939: v4l2loopback not installed, virtual camera disabled
+16:44:29.096: [obs-browser]: Version 2.23.4
+16:44:29.096: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0+g17f8588+chromium-103.0.5060.134 (compiled)
+16:44:29.394: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:44:29.394: FFmpeg VAAPI H264 encoding not supported
+16:44:29.394: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:44:29.394: FFmpeg VAAPI AV1 encoding not supported
+16:44:29.394: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:44:29.394: FFmpeg VAAPI HEVC encoding not supported
+16:44:29.591: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.4.2 | RPC Version: 1)
+16:44:29.592: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.7.0 | Qt version (run-time): 6.7.1
+16:44:29.592: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+16:44:29.600: [obs-websocket] [obs_module_load] Module loaded.
+16:44:29.668: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+16:44:29.668: ---------------------------------
+16:44:29.668:   Loaded Modules:
+16:44:29.670:     vlc-video.so
+16:44:29.670:     text-freetype2.so
+16:44:29.670:     rtmp-services.so
+16:44:29.670:     obs-websocket.so
+16:44:29.670:     obs-webrtc.so
+16:44:29.670:     obs-webkitgtk.so
+16:44:29.670:     obs-vst.so
+16:44:29.670:     obs-transitions.so
+16:44:29.670:     obs-outputs.so
+16:44:29.670:     obs-libfdk.so
+16:44:29.670:     obs-filters.so
+16:44:29.670:     obs-ffmpeg.so
+16:44:29.671:     obs-browser.so
+16:44:29.671:     linux-v4l2.so
+16:44:29.671:     linux-pulseaudio.so
+16:44:29.671:     linux-pipewire.so
+16:44:29.671:     linux-jack.so
+16:44:29.671:     linux-capture.so
+16:44:29.671:     linux-alsa.so
+16:44:29.671:     image-source.so
+16:44:29.671:     frontend-tools.so
+16:44:29.671:     decklink-output-ui.so
+16:44:29.671:     decklink-captions.so
+16:44:29.671: ---------------------------------
+16:44:29.671: ==== Startup complete ===============================================
+16:44:29.726: All scene data cleared
+16:44:29.726: ------------------------------------------------
+16:44:29.732: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+16:44:29.733: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+16:44:29.733: pulse-input: Started recording from 'audio_effect.j493-convolver.monitor' (default)
+16:44:29.733: [Loaded global audio device]: 'Desktop Audio'
+16:44:29.736: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+16:44:29.736: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+16:44:29.736: pulse-input: Started recording from 'audio_effect.j493-convolver.monitor' (default)
+16:44:29.736: [Loaded global audio device]: 'Mic/Aux'
+16:44:29.737: Source ID 'xshm_input' not found
+16:44:29.737: Failed to create source 'Screen Capture (XSHM)'!
+16:44:29.739: Switched to scene 'Scene'
+16:44:29.739: ------------------------------------------------
+16:44:29.739: Loaded scenes:
+16:44:29.739: - scene 'Scene':
+16:44:29.739:     - source: 'Screen Capture (XSHM)' (xshm_input)
+16:44:29.739: ------------------------------------------------
+16:44:30.362: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+16:44:30.362: 
+16:44:30.681: [rtmp-services plugin] Successfully updated file 'services.json' (version 256)
+16:44:30.682: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+16:44:30.682: 
+16:44:30.683: [rtmp-services plugin] Successfully updated package (version 256)
+16:44:40.789: PipeWire initialized
+16:44:40.803: User added source 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source) to scene 'Scene'
+16:44:41.017: [pipewire] Screencast session created
+16:44:41.020: [pipewire] Asking for desktop
+16:44:44.952: [pipewire] desktop selected, setting up screencast
+16:44:44.961: [pipewire] Server version: 1.0.7
+16:44:44.961: [pipewire] Library version: 1.0.7
+16:44:44.961: [pipewire] Header version: 1.0.4
+16:44:44.961: [pipewire] Created stream 0xaaaadce6ac70
+16:44:44.961: [pipewire] Stream 0xaaaadce6ac70 state: "connecting" (error: none)
+16:44:44.961: [pipewire] Playing stream 0xaaaadce6ac70
+16:44:44.961: [pipewire] Stream 0xaaaadce6ac70 state: "paused" (error: none)
+16:44:44.984: [pipewire] Negotiated format:
+16:44:44.984: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+16:44:44.984: [pipewire]     Modifier: 0x0
+16:44:44.984: [pipewire]     Size: 2560x1600
+16:44:44.984: [pipewire]     Framerate: 0/1
+16:44:44.988: [pipewire] Negotiated format:
+16:44:44.988: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+16:44:44.988: [pipewire]     Modifier: 0xb00000000000002
+16:44:44.988: [pipewire]     Size: 2560x1600
+16:44:44.988: [pipewire]     Framerate: 0/1
+16:44:45.284: [pipewire] Stream 0xaaaadce6ac70 state: "streaming" (error: none)
+16:44:55.576: ---------------------------------
+16:44:55.577: [H.264 encoder: 'simple_video_recording'] settings:
+16:44:55.577: 	encoder:      OpenH264
+16:44:55.577: 	rc_mode:      quality
+16:44:55.577: 	bitrate:      2500
+16:44:55.577: 	profile:      main
+16:44:55.577: 	width:        1536
+16:44:55.577: 	height:       960
+16:44:55.577: 	ffmpeg opts:  
+16:44:55.577: 
+16:44:55.614: libfdk_aac encoder created
+16:44:55.614: libfdk_aac bitrate: 192, channels: 2
+16:44:55.614: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+16:44:55.614: 	movflags=frag_keyframe+empty_moov+delay_moov
+16:44:55.617: ==== Recording Start ===============================================
+16:44:55.617: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sai/2024-07-24 16-44-55.mp4'...
+16:44:59.822:   OpenType support missing for "Open Sans", script 11
+16:44:59.825:   OpenType support missing for "Open Sans", script 12
+16:44:59.828:   OpenType support missing for "Open Sans", script 16
+16:44:59.830:   OpenType support missing for "Open Sans", script 20
+16:45:24.885: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sai/2024-07-24 16-44-55.mp4' stopped
+16:45:24.886: Output 'simple_file_output': stopping
+16:45:24.886: Output 'simple_file_output': Total frames output: 777
+16:45:24.886: Output 'simple_file_output': Total drawn frames: 879
+16:45:24.887: ==== Recording Stop ================================================
+16:45:24.888: libfdk_aac encoder destroyed
+16:46:14.769: ---------------------------------
+16:46:14.769: [H.264 encoder: 'simple_video_recording'] settings:
+16:46:14.769: 	encoder:      OpenH264
+16:46:14.769: 	rc_mode:      quality
+16:46:14.769: 	bitrate:      2500
+16:46:14.769: 	profile:      main
+16:46:14.769: 	width:        1536
+16:46:14.769: 	height:       960
+16:46:14.769: 	ffmpeg opts:  
+16:46:14.769: 
+16:46:14.772: libfdk_aac encoder created
+16:46:14.772: libfdk_aac bitrate: 192, channels: 2
+16:46:14.773: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+16:46:14.773: 	movflags=frag_keyframe+empty_moov+delay_moov
+16:46:14.775: ==== Recording Start ===============================================
+16:46:14.775: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sai/2024-07-24 16-46-14.mp4'...
+16:50:28.415: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sai/2024-07-24 16-46-14.mp4' stopped
+16:50:28.416: Output 'simple_file_output': stopping
+16:50:28.416: Output 'simple_file_output': Total frames output: 7236
+16:50:28.416: Output 'simple_file_output': Total drawn frames: 7606 (7609 attempted)
+16:50:28.416: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+16:50:28.417: ==== Recording Stop ================================================
+16:50:28.444: libfdk_aac encoder destroyed
+16:51:47.758: ---------------------------------
+16:51:47.758: [H.264 encoder: 'simple_video_recording'] settings:
+16:51:47.758: 	encoder:      OpenH264
+16:51:47.758: 	rc_mode:      quality
+16:51:47.758: 	bitrate:      2500
+16:51:47.758: 	profile:      main
+16:51:47.758: 	width:        1536
+16:51:47.758: 	height:       960
+16:51:47.758: 	ffmpeg opts:  
+16:51:47.758: 
+16:51:47.764: libfdk_aac encoder created
+16:51:47.764: libfdk_aac bitrate: 192, channels: 2
+16:51:47.765: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+16:51:47.765: 	movflags=frag_keyframe+empty_moov+delay_moov
+16:51:47.768: ==== Recording Start ===============================================
+16:51:47.768: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sai/2024-07-24 16-51-47.mp4'...
+16:53:55.194: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sai/2024-07-24 16-51-47.mp4' stopped
+16:53:55.194: Output 'simple_file_output': stopping
+16:53:55.194: Output 'simple_file_output': Total frames output: 3686
+16:53:55.194: Output 'simple_file_output': Total drawn frames: 3822 (3823 attempted)
+16:53:55.195: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+16:53:55.195: ==== Recording Stop ================================================
+16:53:55.195: libfdk_aac encoder destroyed
+16:53:59.582: ---------------------------------
+16:53:59.582: [H.264 encoder: 'simple_video_recording'] settings:
+16:53:59.582: 	encoder:      OpenH264
+16:53:59.582: 	rc_mode:      quality
+16:53:59.582: 	bitrate:      2500
+16:53:59.582: 	profile:      main
+16:53:59.582: 	width:        1536
+16:53:59.582: 	height:       960
+16:53:59.582: 	ffmpeg opts:  
+16:53:59.582: 
+16:53:59.585: libfdk_aac encoder created
+16:53:59.585: libfdk_aac bitrate: 192, channels: 2
+16:53:59.585: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+16:53:59.585: 	movflags=frag_keyframe+empty_moov+delay_moov
+16:53:59.590: ==== Recording Start ===============================================
+16:53:59.590: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sai/2024-07-24 16-53-59.mp4'...
+16:54:56.675: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sai/2024-07-24 16-53-59.mp4' stopped
+16:54:56.676: Output 'simple_file_output': stopping
+16:54:56.676: Output 'simple_file_output': Total frames output: 1620
+16:54:56.676: Output 'simple_file_output': Total drawn frames: 1712
+16:54:56.676: ==== Recording Stop ================================================
+16:54:56.677: libfdk_aac encoder destroyed
+16:59:38.125: ---------------------------------
+16:59:38.129: [H.264 encoder: 'simple_video_recording'] settings:
+16:59:38.129: 	encoder:      OpenH264
+16:59:38.129: 	rc_mode:      quality
+16:59:38.129: 	bitrate:      2500
+16:59:38.129: 	profile:      main
+16:59:38.129: 	width:        1536
+16:59:38.129: 	height:       960
+16:59:38.129: 	ffmpeg opts:  
+16:59:38.129: 
+16:59:38.138: libfdk_aac encoder created
+16:59:38.139: libfdk_aac bitrate: 192, channels: 2
+16:59:38.139: [ffmpeg muxer: 'simple_file_output'] Using muxer settings:
+16:59:38.139: 	movflags=frag_keyframe+empty_moov+delay_moov
+16:59:38.145: ==== Recording Start ===============================================
+16:59:38.145: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sai/2024-07-24 16-59-38.mp4'...
+17:00:56.174: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sai/2024-07-24 16-59-38.mp4' stopped
+17:00:56.174: Output 'simple_file_output': stopping
+17:00:56.174: Output 'simple_file_output': Total frames output: 2304
+17:00:56.174: Output 'simple_file_output': Total drawn frames: 2341
+17:00:56.174: ==== Recording Stop ================================================
+17:00:56.174: libfdk_aac encoder destroyed
+17:01:31.441: [pipewire] Stream 0xaaaadce6ac70 state: "paused" (error: none)

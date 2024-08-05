@@ -1,0 +1,29 @@
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonaacf» активен
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonCreateEnvOnPipInstall» активен
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonSurveyNotification» активен
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-06-11 19:12:22.561 [info] Эксперимент «pythonTestAdapter» активен
+2024-06-11 19:12:22.561 [info] Default formatter is set to null for workspace /home/sai/NewsPortal
+2024-06-11 19:12:22.561 [info] Путь к интерпретатору Python: /bin/python
+2024-06-11 19:12:22.851 [info] > pyenv which python
+2024-06-11 19:12:22.851 [info] cwd: .
+2024-06-11 19:12:23.721 [info] Запуск языкового сервера Pylance.
+2024-06-11 19:12:23.899 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-06-11 19:16:05.418 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:16:32.446 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:16:37.024 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:19:16.891 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:32:03.239 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:33:38.568 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:34:12.063 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:34:18.511 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/project/settings.py
+2024-06-11 19:36:05.883 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/views.py
+2024-06-11 19:36:19.639 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/views.py
+2024-06-11 19:36:27.437 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/views.py
+2024-06-11 19:54:20.004 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/views.py
+2024-06-11 20:03:44.611 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/models.py
+2024-06-11 20:03:52.401 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/models.py
+2024-06-11 20:04:34.295 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/models.py
+2024-06-11 20:15:27.127 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/urls.py
+2024-06-11 20:15:30.795 [info] Discover tests for workspace name: NewsPortal - uri: /home/sai/NewsPortal/news/urls.py

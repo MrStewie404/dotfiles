@@ -1,0 +1,8 @@
+2024-06-11 19:12:21.174 [info] update#setState idle
+2024-06-11 19:12:22.246 [info] Extension host with pid 1390378 exited with code: 0, signal: unknown.
+2024-06-11 19:12:22.247 [error] [UtilityProcess id: 1, type: extensionHost, pid: 1390378]: crashed with code 133 and reason 'crashed'
+2024-06-11 19:12:51.175 [info] update#setState checking for updates
+2024-06-11 19:12:51.191 [info] update#setState available for download
+2024-06-11 19:14:15.900 [info] update#setState idle
+2024-06-11 20:12:51.184 [info] update#setState checking for updates
+2024-06-11 20:12:51.684 [info] update#setState available for download

@@ -1,0 +1,7 @@
+2024-06-11 19:12:21.635 [info] Started local extension host with pid 1390378.
+2024-06-11 19:12:22.250 [error] Extension host (LocalProcess pid: 1390378) terminated unexpectedly. No extensions were activated.
+2024-06-11 19:12:22.250 [info] Automatically restarting the extension host.
+2024-06-11 19:12:22.255 [info] Started local extension host with pid 1390474.
+2024-06-11 19:12:24.317 [info] [perf] Render performance baseline is 37ms
+2024-06-11 19:13:21.645 [error] Error received from starting extension host (kind: LocalProcess)
+2024-06-11 19:13:21.648 [error] The local extension host took longer than 60s to send its ready message.
